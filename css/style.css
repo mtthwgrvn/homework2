@@ -4,6 +4,11 @@ html {
   font-family: "Lucida Grande", sans-serif;
 }
 
+/*
+====
+Text
+====
+*/
 h1 {
   display: block;
   text-align: center;
@@ -18,9 +23,13 @@ h2 {
 p {
   font-size: 24px;
   padding-top: 20px;
-  color: #ffffff;
 }
 
+/*
+=======
+Images
+=======
+*/
 img {
   display: block;
   margin-left: auto;
@@ -29,11 +38,21 @@ img {
   height: auto;
 }
 
+/*
+====
+Divs
+====
+*/
 div {
   height: 150px;
   padding: 25px;
 }
 
+/*
+===
+IDs
+===
+*/
 #intro p {
   color: #ffffff;
 }
@@ -69,6 +88,12 @@ div {
 #green p {
   color: #ffffff;
 }
+
+/*
+======
+footer
+======
+*/
 footer p {
   color: #ffffff;
   text-align: right;
